@@ -1,5 +1,4 @@
 package api
-
 import (
 	"bufio"
 	"bytes"
